@@ -1,18 +1,14 @@
 
 {
   "schemaVersion": 1,
-  "id": "baritone",
+  "id": "autoggbyjonas",
   "version": "${version}",
 
-  "name": "Baritone",
-  "description": "Google Maps for Blockgame",
+  "name": "AutoGGByJonas",
+  "description": "gg",
   "authors": [
-    "leijurv", "Brady"
+    "Jonas"
   ],
-  "contact": {
-    "homepage": "https://github.com/cabaletta/baritone",
-    "sources": "https://github.com/cabaletta/baritone"
-  },
 
   "license": "LGPL-3.0",
   "icon": "assets/baritone/icon.png",
